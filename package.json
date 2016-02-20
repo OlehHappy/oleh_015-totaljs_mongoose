@@ -1,0 +1,19 @@
+{
+  "name": "oleh_016-totaljs_mongoose",
+  "version": "1.0.0",
+  "description": "## First step",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlehHappy/oleh_016-totaljs_mongoose.git"
+  },
+  "author": "Oleh Daybov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlehHappy/oleh_016-totaljs_mongoose/issues"
+  },
+  "homepage": "https://github.com/OlehHappy/oleh_016-totaljs_mongoose#readme"
+}
